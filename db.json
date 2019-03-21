@@ -19,22 +19,6 @@
         {
             "id": 2,
             "user": "Sample 2",
-            "heading": "The Nine States Of Design",
-            "description": "There’s the happy path and then there’s the unhappy path — and that’s the one arises when you interrogate your flow to find where user’s might stray-unintentionally or otherwise-from your idealised flow. This article by Vince Speelman breaks down the lifecycle of the states to look out for. And all too important if you’re designing for the checkout flow as it could be the difference between a completed or uncompleted purchase and with the latter, a frustrated customer.",
-            "comments": [
-                {
-                    "user": "Tom",
-                    "comment": "Why this?"
-                },
-                {
-                    "user": "Jack",
-                    "comment": "Why?"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "user": "Sample 3",
             "heading": "UI Design Starts With Words",
             "description": "To get my head into the system I’m designing (and probably like you if you work in UX) I begin with sketching out various user flows. Having just re-read this post by Luca Leone on Smashing Magazine I would have saved from couple of years ago, I’m going to try starting with words.",
             "comments": [
@@ -49,8 +33,8 @@
             ]
         },
         {
-            "id": 4,
-            "user": "Sample 4",
+            "id": 3,
+            "user": "Sample 3",
             "heading": "Your UI Isn’t A Disney Movie",
             "description": "The overuse of animation in some UI can be prevalent. Sophie Paxton does a great job in her article setting down some guiding principles when animating for the web and how to avoid, as she calls it: ‘behavioural skeumorphism’",
             "comments": [
@@ -65,8 +49,8 @@
             ]
         },
         {
-            "id": 5,
-            "user": "Sample 5",
+            "id": 4,
+            "user": "Sample 4",
             "heading": "Typography on User Interfaces",
             "description": "Setting type used to be a intricate process in the days when print media was the only way societies consumed information. We can put type to screen all too easily now. This article by Vilijalmi Salminen takes us back to the fundamentals and tells us how to set type for the web, what to look out for and where the future of Typography lies.",
             "comments": [
