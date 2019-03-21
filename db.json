@@ -17,6 +17,22 @@
             ]
         },
         {
+            "id": 2,
+            "user": "Sample 2",
+            "heading": "The Nine States Of Design",
+            "description": "There’s the happy path and then there’s the unhappy path — and that’s the one arises when you interrogate your flow to find where user’s might stray-unintentionally or otherwise-from your idealised flow. This article by Vince Speelman breaks down the lifecycle of the states to look out for. And all too important if you’re designing for the checkout flow as it could be the difference between a completed or uncompleted purchase and with the latter, a frustrated customer.",
+            "comments": [
+                {
+                    "user": "Tom",
+                    "comment": "Why this?"
+                },
+                {
+                    "user": "Jack",
+                    "comment": "Why?"
+                }
+            ]
+        },
+        {
             "id": 3,
             "user": "Sample 3",
             "heading": "UI Design Starts With Words",
