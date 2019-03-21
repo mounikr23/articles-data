@@ -1,7 +1,39 @@
 {
-    "articles":[
+    "articles": [
         {
             "id": 1,
+            "user": "Sample",
+            "heading": "Test heading",
+            "description": "This is a test description",
+            "comments": [
+                {
+                    "user": "Tom",
+                    "comment": "Why this?"
+                },
+                {
+                    "user": "Jack",
+                    "comment": "Why?"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "user": "Sample",
+            "heading": "Test heading",
+            "description": "This is a test description",
+            "comments": [
+                {
+                    "user": "Tom",
+                    "comment": "Why this?"
+                },
+                {
+                    "user": "Jack",
+                    "comment": "Why?"
+                }
+            ]
+        },
+        {
+            "id": 3,
             "user": "Sample",
             "heading": "Test heading",
             "description": "This is a test description",
@@ -18,4 +50,3 @@
         }
     ]
 }
-
