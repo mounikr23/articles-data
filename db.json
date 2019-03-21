@@ -2,7 +2,7 @@
     "articles": [
         {
             "id": 1,
-            "user": "Sample",
+            "user": "Jason Newpher",
             "heading": "Conversational UI’s",
             "description": "More people than ever are using mobile messaging apps. It’s become the preferred means of communication with the total number of messages sent predicted to have taken over email by the summer of 2016. With consumers engaging with so many businesses online via chatbots to find or complete their purchases, it’s no wonder that we’re going to see a rise in what Chris Messina, the Developer Experience Lead at Uber calls ‘Conversational Commerce’. A great article.",
             "comments": [
@@ -18,7 +18,7 @@
         },
         {
             "id": 2,
-            "user": "Sample 2",
+            "user": "Mark Taylor",
             "heading": "UI Design Starts With Words",
             "description": "To get my head into the system I’m designing (and probably like you if you work in UX) I begin with sketching out various user flows. Having just re-read this post by Luca Leone on Smashing Magazine I would have saved from couple of years ago, I’m going to try starting with words.",
             "comments": [
@@ -34,7 +34,7 @@
         },
         {
             "id": 3,
-            "user": "Sample 3",
+            "user": "Tim Roberts",
             "heading": "Your UI Isn’t A Disney Movie",
             "description": "The overuse of animation in some UI can be prevalent. Sophie Paxton does a great job in her article setting down some guiding principles when animating for the web and how to avoid, as she calls it: ‘behavioural skeumorphism’",
             "comments": [
@@ -50,7 +50,7 @@
         },
         {
             "id": 4,
-            "user": "Sample 4",
+            "user": "Patrick Penly",
             "heading": "Typography on User Interfaces",
             "description": "Setting type used to be a intricate process in the days when print media was the only way societies consumed information. We can put type to screen all too easily now. This article by Vilijalmi Salminen takes us back to the fundamentals and tells us how to set type for the web, what to look out for and where the future of Typography lies.",
             "comments": [
