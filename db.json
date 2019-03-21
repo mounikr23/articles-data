@@ -35,7 +35,8 @@
         {
             "id": 3,
             "user": "Sample 3",
-            "heading": "Why do we use it?",
+            "heading": "UI Design Starts With Words",
+            "description": "To get my head into the system I’m designing (and probably like you if you work in UX) I begin with sketching out various user flows. Having just re-read this post by Luca Leone on Smashing Magazine I’d saved from couple of years ago, I’m going to try starting with words.",
             "comments": [
                 {
                     "user": "Tom",
@@ -50,8 +51,24 @@
         {
             "id": 4,
             "user": "Sample 4",
-            "heading": "Where can I get some?",
-            "description": "Contrary",
+            "heading": "Your UI Isn’t A Disney Movie",
+            "description": "The overuse of animation in some UI can be prevalent. Sophie Paxton does a great job in her article setting down some guiding principles when animating for the web and how to avoid, as she calls it: ‘behavioural skeumorphism’",
+            "comments": [
+                {
+                    "user": "Tom",
+                    "comment": "Why this?"
+                },
+                {
+                    "user": "Jack",
+                    "comment": "Why?"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "user": "Sample 5",
+            "heading": "Typography on User Interfaces",
+            "description": "Setting type used to be a intricate process in the days when print media was the only way societies consumed information. We can put type to screen all too easily now. This article by Vilijalmi Salminen takes us back to the fundamentals and tells us how to set type for the web, what to look out for and where the future of Typography lies.",
             "comments": [
                 {
                     "user": "Tom",
