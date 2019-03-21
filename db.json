@@ -1,4 +1,4 @@
-articles:[
+{articles:[
     {
         "id": 1,
         "user": "Sample",
@@ -15,4 +15,5 @@ articles:[
         ]
     }
 ]
+}
 
