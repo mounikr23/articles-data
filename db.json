@@ -3,6 +3,7 @@
         {
             "id": 1,
             "user": "Sample",
+            "heading": "Test heading",
             "description": "This is a test description",
             "comments": [
                 {
